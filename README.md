@@ -1,4 +1,4 @@
-# 📄 PDF Section Classifier using LangGraph and Ollama
+# 📄Multi-Agent-Workflow-PDF-Section-Classifier
 
 This project implements a multi-step agent workflow to **extract sections from a PDF** and classify each section into one of three categories: **Legal**, **Technical**, or **Financial**. It uses [LangGraph](https://github.com/langgraph-ai/langgraph) to build the agent pipeline and [Ollama](https://ollama.com) to run the LLM locally (e.g., `mistral`).
 
@@ -40,8 +40,8 @@ This project implements a multi-step agent workflow to **extract sections from a
 
 ## 📦 Installation:
 # 1. Clone the repository
-git clone https://github.com/yourusername/pdf-section-classifier.git
-cd pdf-section-classifier
+git clone https://github.com/Nayan1442/-Multi-Agent-Workflow-PDF-Section-Classifier-.git
+cd Multi-Agent-Workflow-PDF-Section-Classifier
 
 # 2. Create a virtual environment
 python -m venv venv
